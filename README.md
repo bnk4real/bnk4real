@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on:
   **an Awesome Startup project**
-  **POS system (React + Java Spring Boot)**
+  and **POS system (React + Java Spring Boot)**
   
 - 📫 How to reach me **marcus.yodkaset@gmail.com**
 

@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 <h1 align="center">👋, I'm Marcus Yodkaset</h1>
-<h3 align="center">Versatile Software Engineer with 4 years of experience in software solutions. Proficient in API development, database management, and software architecture.</h3>
+<h2 align="center">Versatile Software Engineer with 4 years of experience in software solutions. Proficient in API development, database management, and software architecture.</h2>
+
+- 🔭 I’m currently working on:
+  **an Awesome Startup project**
+  **POS system (React + Java Spring Boot)**
+  
+- 📫 How to reach me **marcus.yodkaset@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

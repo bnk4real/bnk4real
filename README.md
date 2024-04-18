@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-<h1 align="center">👋, I'm Marcus Yodkaset</h1>
-<h2 align="center">Versatile Software Engineer with 4 years of experience in software solutions. Proficient in API development, database management, and software architecture.</h2>
-
+<h1 align="center">👋 I'm Marcus Yodkaset</h1>
 - 🔭 I’m currently working on:
-  **an Awesome Startup project**
-  and **POS system (React + Java Spring Boot)**
-  
+  **an Awesome Startup project (TBA)** and **POS system (React + Java Spring Boot)**
 - 📫 How to reach me **marcus.yodkaset@gmail.com**
+- My recent web resume can be found: https://web-business-technology.000webhostapp.com/marcus-resume-website/marcus-yodkaset-resume-page.html
+- My recent resume: https://1drv.ms/b/s!AvezNjAQc1fNg9REceite0tGm97HVg?e=jqTYPp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,7 +7,7 @@
   
 - 📫 How to reach me **marcus.yodkaset@gmail.com**
   
-- My recent web resume can be found: https://web-business-technology.000webhostapp.com/marcus-resume-website/marcus-yodkaset-resume-page.html
+- My recent web resume can be found: https://bnk4real.github.io/marcus-resume-website/marcus-yodkaset
   
 - My recent resume: https://1drv.ms/b/s!AvezNjAQc1fNg9REceite0tGm97HVg?e=jqTYPp
 

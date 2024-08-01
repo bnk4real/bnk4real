@@ -3,7 +3,7 @@
 <h1 align="center">👋 I'm Marcus Yodkaset</h1>
 
 - 🔭 I’m currently working on:
-  **an Awesome Startup project (TBA)** and **POS system (React and Java Spring Boot)**
+  **an Awesome Startup project (STOCKUP)** and **POS system (React and Java Spring Boot)**
   
 - 📫 How to reach me **marcus.yodkaset@gmail.com**
   

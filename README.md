@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<h1 align="center">👋 I'm Marcus Yodkaset</h1>
+<h1 align="center">👋 I'm Pattrick Yodkaset</h1>
 
 - 🔭 I’m currently working on:
-  **an Awesome Startup (STOCKUP)** and **CRM with Python x Flask and FileMaker**
+  **an Awesome Startup (STOCKUP)** and **CRM Desktop and Web Application with Python x Flask and FileMaker**
   
-- 📫 How to reach me **marcus.yodkaset@gmail.com**
+- 📫 How to reach me **pattrick.yodkaset@gmail.com**
   
 - My recent web resume can be found: https://bnk4real.github.io/marcus-resume-website/marcus-yodkaset
   

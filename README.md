@@ -3,7 +3,7 @@
 <h1 align="center">👋 I'm Patrick Yodkaset</h1>
 
 - 🔭 I’m currently working on:
-  **an Awesome Startup (STOCKUP)** and **CRM Desktop and Web Application with Python x Flask and FileMaker**
+  **a Startup (STOCKUP) Chat Application** and **CRM Desktop and Web Application with Python x Flask and FileMaker**
   
 - 📫 How to reach me **patrick.yodkaset@gmail.com**
   

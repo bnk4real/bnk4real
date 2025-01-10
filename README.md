@@ -8,8 +8,6 @@
 - 📫 How to reach me **patrick.yodkaset@gmail.com**
   
 - My recent web resume can be found: https://bnk4real.github.io/patrick-resume-website/patrick-yodkaset
-  
-- My recent resume: https://1drv.ms/b/s!AvezNjAQc1fNg9REceite0tGm97HVg?e=jqTYPp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

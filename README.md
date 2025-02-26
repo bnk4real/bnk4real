@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<h1 align="center">👋 I'm Patrick Yodkaset</h1>
+<h1 align="center">👋 I'm Marcus Yodkaset</h1>
 
 - 🔭 I’m currently working on:
   **a Startup (STOCKUP) Chat Application** and **CRM Desktop and Web Application with Python x Flask and FileMaker**
   
-- 📫 How to reach me **patrick.yodkaset@gmail.com**
+- 📫 How to reach me **marcus.yodkaset@gmail.com**
   
-- My recent web resume can be found: https://bnk4real.github.io/patrick-resume-website/patrick-yodkaset
+- My recent web resume can be found: https://bnk4real.github.io/marcus-resume-website/marcus-yodkaset
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <h1 align="center">👋 I'm Marcus Yodkaset</h1>
-
-- 🔭 I’m currently working on:
-  **a Startup (STOCKUP) Chat Application** and **CRM Desktop and Web Application with Python x Flask and FileMaker**
   
 - 📫 How to reach me **marcus.yodkaset@gmail.com**
   
